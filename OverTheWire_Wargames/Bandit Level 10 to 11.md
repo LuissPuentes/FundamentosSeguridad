@@ -5,7 +5,7 @@ The password for the next level is stored in the file **data.txt**, which conta
 bandit10
 G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 ## Solución
-
+en proceso
 
 ## Notas
 
