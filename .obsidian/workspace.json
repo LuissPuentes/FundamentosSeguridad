@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "583a303850a92508",
+    "type": "split",
+    "children": [
+      {
+        "id": "06417051ee9b8b86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57f373c93a4f5f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OverTheWire_Wargames/Bandit Level 9 to 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8d371509a486a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "dff3feee4537a296",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0757dd92eadf6e5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c57d57a875ef11ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c5bc8a8b441e8452",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35b0fff4c21740ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "072eb8c8badeaaa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70248a0640549647",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OverTheWire_Wargames/Bandit Level 9 to 10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "252f04b4a23a02ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OverTheWire_Wargames/Bandit Level 9 to 10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c05842143ccec8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a33f80287addc00e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OverTheWire_Wargames/Bandit Level 9 to 10.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "57f373c93a4f5f9e",
+  "lastOpenFiles": [
+    "OverTheWire_Wargames/Bandit Level 8 to 9.md",
+    "OverTheWire_Wargames/Bandit Level 9 to 10.md",
+    "OverTheWire_Wargames/Bandit Level 10 to 11.md",
+    "OverTheWire_Wargames/Bandit Level 7 to 8.md",
+    "OverTheWire_Wargames/Plantilla.md",
+    "OverTheWire_Wargames/Bandit Level 6 to 7.md",
+    "OverTheWire_Wargames/Bandit Level 5 to 6.md",
+    "OverTheWire_Wargames/Bandit Level 4 to 5.md",
+    "OverTheWire_Wargames/Bandit Level 3 to 4.md",
+    "OverTheWire_Wargames/Bandit Level 2 to 3.md",
+    "OverTheWire_Wargames/Bandit Level 1 to 2.md",
+    "OverTheWire_Wargames/Bandit Level 0 to 1.md",
+    "OverTheWire_Wargames/Bandit Level 0.md",
+    "README.md",
+    "OverTheWire_Wargames"
+  ]
+}
