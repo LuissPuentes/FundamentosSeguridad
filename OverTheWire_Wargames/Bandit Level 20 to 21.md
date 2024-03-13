@@ -48,7 +48,7 @@ bandit20@bandit:~$
 ## Notas
 tmux abre una terminal virutal
 	ctrl + b comandos "(nueva term), %, space(cambia horizontal y vertical), flechas(moverse entre terminales)
-	ctrl + b : setw -g mouse on
+		ctrl + b : setw -g mouse on
 ## Referencias
 
 https://www.ionos.mx/digitalguide/servidores/know-how/tmux-multiplexor-de-terminal/
