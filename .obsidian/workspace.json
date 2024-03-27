@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "06417051ee9b8b86",
+        "id": "116b82214667f4a3",
         "type": "tabs",
         "children": [
           {
-            "id": "d4a7518b5d54ecae",
+            "id": "398ef6355f01617d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensic-Parte3/5-MacroHard WeakEdge.md",
+                "file": "PicoCTF/SegundoParcial/Parte2/1-information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08acbce0163eb601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/SegundoParcial/Parte2/7-St3g0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Forensic-Parte3/5-MacroHard WeakEdge.md",
+                "file": "PicoCTF/SegundoParcial/Parte2/7-St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Forensic-Parte3/5-MacroHard WeakEdge.md",
+                "file": "PicoCTF/SegundoParcial/Parte2/7-St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Forensic-Parte3/5-MacroHard WeakEdge.md"
+                "file": "PicoCTF/SegundoParcial/Parte2/7-St3g0.md"
               }
             }
           }
@@ -146,43 +159,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d4a7518b5d54ecae",
+  "active": "08acbce0163eb601",
   "lastOpenFiles": [
-    "PicoCTF/Forensic-Parte3/4-tunnelvision.md",
-    "PicoCTF/Forensic-Parte3/3-Matryoshka doll.md",
-    "PicoCTF/Forensic-Parte3/5-MacroHard WeakEdge.md",
+    "PicoCTF/SegundoParcial/Parte2/6-Redaction gone wrong.md",
+    "PicoCTF/SegundoParcial/Parte2/7-St3g0.md",
     "PicoCTF/Plantilla 1.md",
-    "PicoCTF/Forensic-Parte3/2-WebNet1.md",
-    "PicoCTF/Forensic-Parte3/1-WebNet0.md",
-    "PicoCTF/Forensic-Parte1/5-What Lies Within.md",
-    "PicoCTF/Forensic-Parte3",
-    "PicoCTF/ConcursoForensic/Verify.md",
-    "OverTheWire_Wargames/Bandit Level 0.md",
-    "PicoCTF/ConcursoForensic/Commitment Issues.md",
-    "PicoCTF/ConcursoForensic/format string 0.md",
-    "PicoCTF/ConcursoForensic/Unminify.md",
-    "PicoCTF/ConcursoForensic/WebDecode.md",
-    "PicoCTF/ConcursoForensic/interencdec.md",
-    "PicoCTF/ConcursoForensic/Collaborative Development.md",
-    "PicoCTF/ConcursoForensic/Blame Game.md",
-    "PicoCTF/ConcursoForensic/binhexa.md",
-    "PicoCTF/ConcursoForensic/CanYouSee.md",
-    "README.md",
+    "PicoCTF/SegundoParcial/Parte2/5-Packets Primer.md",
+    "PicoCTF/SegundoParcial/Parte2/4-Lookey here.md",
+    "PicoCTF/SegundoParcial/Parte2/3-Enhance.md",
+    "PicoCTF/SegundoParcial/Parte2/2-Wireshark doo dooo do doo....md",
+    "PicoCTF/SegundoParcial/Parte2/1-information.md",
     "PicoCTF/Forensic-Parte1/2-So Meta.md",
-    "PicoCTF/Forensic-Parte1/4-extensions.md",
-    "PicoCTF/ConcursoForensic",
     "PicoCTF/Forensic-Parte1/1-Glory of the Garden.md",
-    "PicoCTF/Forensic-Parte1/3-shark on wire 1.md",
-    "PicoCTF/Forensic-Parte2/4-like1000.md",
-    "PicoCTF/Forensic-Parte2/5-shark on wire 2.md",
-    "PicoCTF/Forensic-Parte2/3-c0rrupt.md",
+    "PicoCTF/SegundoParcial/Parte1/9-SQL Direct.md",
+    "PicoCTF/SegundoParcial/Parte2",
+    "PicoCTF/ConcursoForensic/binhexa.md",
+    "PicoCTF/SegundoParcial/Parte1/8-Secrets.md",
+    "PicoCTF/SegundoParcial/Parte1/7-Roboto Sans.md",
+    "PicoCTF/SegundoParcial/Parte1/6-Power Cookie.md",
+    "PicoCTF/RetosWeb-parte1/3-logon.md",
+    "PicoCTF/RetosWeb-parte1/5-picobrowser.md",
+    "PicoCTF/RetosWeb-parte1/4-dont-use-client-side.md",
+    "PicoCTF/RetosWeb-parte1/6-Client-side-again.md",
+    "PicoCTF/RetosWeb-parte2/1-Irish-Name-Repo 1.md",
+    "PicoCTF/RetosWeb-Parte3/1-GET aHEAD.md",
+    "PicoCTF/RetosWeb-Parte3/2-Cookies.md",
+    "PicoCTF/RetosWeb-parte2/3-Irish Name Repo 3.md",
+    "PicoCTF/RetosWeb-parte2/4-JaWT Scratchpad.md",
+    "PicoCTF/RetosWeb-Parte3/3-Scavenger Hun.md",
+    "PicoCTF/SegundoParcial/Parte1/5-Forbidden Paths.md",
+    "PicoCTF/SegundoParcial/Parte1/Sin título",
+    "PicoCTF/SegundoParcial/Parte1",
+    "PicoCTF/SegundoParcial",
+    "PicoCTF/Forensic-Parte3",
+    "PicoCTF/ConcursoForensic",
     "PicoCTF/Forensic-Parte2",
     "PicoCTF/Forensic-Parte1",
     "PicoCTF/RetosWeb-Parte3",
-    "PicoCTF/RetosWeb-parte2",
-    "PicoCTF/RetosWeb-parte1",
-    "PicoCTF/PrimerParcial",
-    "PicoCTF",
-    "OverTheWire_Wargames"
+    "PicoCTF/RetosWeb-parte2"
   ]
 }
