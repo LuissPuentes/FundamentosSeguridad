@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afcddbfb2f9e642d",
+        "id": "079dc9fae3ef6fbd",
         "type": "tabs",
         "children": [
           {
-            "id": "fc08dff45ee24d61",
+            "id": "6d244000141dfa89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crypto-Parte1/7-waves over lambda.md",
+                "file": "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Crypto-Parte1/7-waves over lambda.md",
+                "file": "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Crypto-Parte1/7-waves over lambda.md",
+                "file": "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Crypto-Parte1/7-waves over lambda.md"
+                "file": "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md"
               }
             }
           }
@@ -146,16 +146,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fc08dff45ee24d61",
+  "active": "6d244000141dfa89",
   "lastOpenFiles": [
-    "PicoCTF/Crypto-Parte1/6-Tapping.md",
+    "PicoCTF/Crypto-Parte2/2-miniRSA.md",
+    "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
+    "PicoCTF/Crypto-Parte2/1-rsa pop quiz.md",
+    "PicoCTF/Plantilla 1.md",
+    "PicoCTF/Sin título.md",
+    "PicoCTF/Crypto-Parte2",
     "PicoCTF/Crypto-Parte1/7-waves over lambda.md",
+    "PicoCTF/Crypto-Parte1/6-Tapping.md",
     "PicoCTF/Crypto-Parte1/5-la cifra de.md",
     "PicoCTF/Crypto-Parte1/4-Easy 1.md",
     "PicoCTF/Crypto-Parte1/3-Caesar.md",
     "PicoCTF/Crypto-Parte1/1-The numbers.md",
     "PicoCTF/Crypto-Parte1/2-13.md",
-    "PicoCTF/Plantilla 1.md",
     "PicoCTF/Crypto-Parte1",
     "PicoCTF/SegundoParcial/Parte2/1-information.md",
     "PicoCTF/SegundoParcial/Parte2/7-St3g0.md",
@@ -172,17 +177,12 @@
     "PicoCTF/SegundoParcial/Parte1/8-Secrets.md",
     "PicoCTF/SegundoParcial/Parte1/7-Roboto Sans.md",
     "PicoCTF/SegundoParcial/Parte1/6-Power Cookie.md",
-    "PicoCTF/RetosWeb-parte1/3-logon.md",
-    "PicoCTF/RetosWeb-parte1/5-picobrowser.md",
-    "PicoCTF/RetosWeb-parte1/4-dont-use-client-side.md",
-    "PicoCTF/RetosWeb-parte1/6-Client-side-again.md",
     "PicoCTF/SegundoParcial/Parte1/Sin título",
     "PicoCTF/SegundoParcial/Parte1",
     "PicoCTF/SegundoParcial",
     "PicoCTF/Forensic-Parte3",
     "PicoCTF/ConcursoForensic",
     "PicoCTF/Forensic-Parte2",
-    "PicoCTF/Forensic-Parte1",
-    "PicoCTF/RetosWeb-Parte3"
+    "PicoCTF/Forensic-Parte1"
   ]
 }
