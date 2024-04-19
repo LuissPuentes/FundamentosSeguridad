@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "079dc9fae3ef6fbd",
+        "id": "d48b11a0cd04be3e",
         "type": "tabs",
         "children": [
           {
-            "id": "6d244000141dfa89",
+            "id": "7b7085b97bd4fb2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
+                "file": "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
+                "file": "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
+                "file": "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md"
+                "file": "PicoCTF/Crypto-Parte3/5-ReadMyCert.md"
               }
             }
           }
@@ -146,12 +146,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6d244000141dfa89",
+  "active": "7b7085b97bd4fb2d",
   "lastOpenFiles": [
-    "PicoCTF/Crypto-Parte2/2-miniRSA.md",
-    "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
+    "PicoCTF/Crypto-Parte3/4-HideToSee.md",
+    "PicoCTF/Crypto-Parte3/3-basic-mod1.md",
+    "PicoCTF/Crypto-Parte3/2-Pixelated.md",
+    "PicoCTF/Crypto-Parte3/1-Mind your Ps and Qs.md",
     "PicoCTF/Crypto-Parte2/1-rsa pop quiz.md",
+    "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
+    "PicoCTF/Crypto-Parte2/2-miniRSA.md",
+    "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
     "PicoCTF/Plantilla 1.md",
+    "README.md",
+    "PicoCTF/Crypto-Parte3/Sin título 5.md",
+    "PicoCTF/Crypto-Parte3",
     "PicoCTF/Sin título.md",
     "PicoCTF/Crypto-Parte2",
     "PicoCTF/Crypto-Parte1/7-waves over lambda.md",
@@ -169,20 +177,12 @@
     "PicoCTF/SegundoParcial/Parte2/4-Lookey here.md",
     "PicoCTF/SegundoParcial/Parte2/3-Enhance.md",
     "PicoCTF/SegundoParcial/Parte2/2-Wireshark doo dooo do doo....md",
-    "PicoCTF/Forensic-Parte1/2-So Meta.md",
-    "PicoCTF/Forensic-Parte1/1-Glory of the Garden.md",
-    "PicoCTF/SegundoParcial/Parte1/9-SQL Direct.md",
     "PicoCTF/SegundoParcial/Parte2",
-    "PicoCTF/ConcursoForensic/binhexa.md",
-    "PicoCTF/SegundoParcial/Parte1/8-Secrets.md",
-    "PicoCTF/SegundoParcial/Parte1/7-Roboto Sans.md",
-    "PicoCTF/SegundoParcial/Parte1/6-Power Cookie.md",
     "PicoCTF/SegundoParcial/Parte1/Sin título",
     "PicoCTF/SegundoParcial/Parte1",
     "PicoCTF/SegundoParcial",
     "PicoCTF/Forensic-Parte3",
     "PicoCTF/ConcursoForensic",
-    "PicoCTF/Forensic-Parte2",
-    "PicoCTF/Forensic-Parte1"
+    "PicoCTF/Forensic-Parte2"
   ]
 }
