@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
+                "file": "PicoCTF/Reversing-Parte1/vault-door-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
+                "file": "PicoCTF/Reversing-Parte1/vault-door-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
+                "file": "PicoCTF/Reversing-Parte1/vault-door-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Crypto-Parte3/5-ReadMyCert.md"
+                "file": "PicoCTF/Reversing-Parte1/vault-door-3.md"
               }
             }
           }
@@ -148,6 +148,14 @@
   },
   "active": "7b7085b97bd4fb2d",
   "lastOpenFiles": [
+    "PicoCTF/Reversing-Parte1/vault-door-1.md",
+    "PicoCTF/Reversing-Parte1/vault-door-4.md",
+    "PicoCTF/Reversing-Parte1/vault-door-5.md",
+    "PicoCTF/Reversing-Parte1/vault-door-training.md",
+    "PicoCTF/Reversing-Parte1/vault-door-3.md",
+    "PicoCTF/Plantilla 1.md",
+    "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
+    "PicoCTF/Reversing-Parte1",
     "PicoCTF/Crypto-Parte3/4-HideToSee.md",
     "PicoCTF/Crypto-Parte3/3-basic-mod1.md",
     "PicoCTF/Crypto-Parte3/2-Pixelated.md",
@@ -155,8 +163,6 @@
     "PicoCTF/Crypto-Parte2/1-rsa pop quiz.md",
     "PicoCTF/Crypto-Parte2/3-b00tl3gRSA2.md",
     "PicoCTF/Crypto-Parte2/2-miniRSA.md",
-    "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
-    "PicoCTF/Plantilla 1.md",
     "README.md",
     "PicoCTF/Crypto-Parte3/Sin título 5.md",
     "PicoCTF/Crypto-Parte3",
@@ -172,17 +178,11 @@
     "PicoCTF/Crypto-Parte1",
     "PicoCTF/SegundoParcial/Parte2/1-information.md",
     "PicoCTF/SegundoParcial/Parte2/7-St3g0.md",
-    "PicoCTF/SegundoParcial/Parte2/6-Redaction gone wrong.md",
-    "PicoCTF/SegundoParcial/Parte2/5-Packets Primer.md",
-    "PicoCTF/SegundoParcial/Parte2/4-Lookey here.md",
-    "PicoCTF/SegundoParcial/Parte2/3-Enhance.md",
-    "PicoCTF/SegundoParcial/Parte2/2-Wireshark doo dooo do doo....md",
     "PicoCTF/SegundoParcial/Parte2",
     "PicoCTF/SegundoParcial/Parte1/Sin título",
     "PicoCTF/SegundoParcial/Parte1",
     "PicoCTF/SegundoParcial",
     "PicoCTF/Forensic-Parte3",
-    "PicoCTF/ConcursoForensic",
-    "PicoCTF/Forensic-Parte2"
+    "PicoCTF/ConcursoForensic"
   ]
 }
