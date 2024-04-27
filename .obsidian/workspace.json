@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d48b11a0cd04be3e",
+        "id": "f3f50bfc301f1f57",
         "type": "tabs",
         "children": [
           {
-            "id": "7b7085b97bd4fb2d",
+            "id": "3768a36e91ae7d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reversing-Parte1/vault-door-3.md",
+                "file": "PicoCTF/Reversing-Parte2/3-asm3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Reversing-Parte1/vault-door-3.md",
+                "file": "PicoCTF/Reversing-Parte2/3-asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Reversing-Parte1/vault-door-3.md",
+                "file": "PicoCTF/Reversing-Parte2/3-asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Reversing-Parte1/vault-door-3.md"
+                "file": "PicoCTF/Reversing-Parte2/3-asm3.md"
               }
             }
           }
@@ -146,14 +146,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7b7085b97bd4fb2d",
+  "active": "3768a36e91ae7d47",
   "lastOpenFiles": [
+    "PicoCTF/Reversing-Parte2/2-asm2.md",
+    "PicoCTF/Reversing-Parte2/3-asm3.md",
+    "PicoCTF/Reversing-Parte2/1-asm1.md",
+    "PicoCTF/Plantilla 1.md",
+    "PicoCTF/Reversing-Parte2",
+    "PicoCTF/Reversing-Parte1/vault-door-3.md",
     "PicoCTF/Reversing-Parte1/vault-door-1.md",
     "PicoCTF/Reversing-Parte1/vault-door-4.md",
     "PicoCTF/Reversing-Parte1/vault-door-5.md",
     "PicoCTF/Reversing-Parte1/vault-door-training.md",
-    "PicoCTF/Reversing-Parte1/vault-door-3.md",
-    "PicoCTF/Plantilla 1.md",
     "PicoCTF/Crypto-Parte3/5-ReadMyCert.md",
     "PicoCTF/Reversing-Parte1",
     "PicoCTF/Crypto-Parte3/4-HideToSee.md",
@@ -174,15 +178,11 @@
     "PicoCTF/Crypto-Parte1/4-Easy 1.md",
     "PicoCTF/Crypto-Parte1/3-Caesar.md",
     "PicoCTF/Crypto-Parte1/1-The numbers.md",
-    "PicoCTF/Crypto-Parte1/2-13.md",
     "PicoCTF/Crypto-Parte1",
-    "PicoCTF/SegundoParcial/Parte2/1-information.md",
-    "PicoCTF/SegundoParcial/Parte2/7-St3g0.md",
     "PicoCTF/SegundoParcial/Parte2",
     "PicoCTF/SegundoParcial/Parte1/Sin título",
     "PicoCTF/SegundoParcial/Parte1",
     "PicoCTF/SegundoParcial",
-    "PicoCTF/Forensic-Parte3",
-    "PicoCTF/ConcursoForensic"
+    "PicoCTF/Forensic-Parte3"
   ]
 }
